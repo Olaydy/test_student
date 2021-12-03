@@ -5,8 +5,7 @@
 #include "matrix.h"
 #include "defs.h"
 
-#include "geom.h"
-#include "vbmp.h"
+//#include "geom.h"
 #include "lwml.h"
 
 #include "hooke_opt.h"
