@@ -15,7 +15,7 @@ namespace eye {
 
 using namespace lwml;
 
-// HOOKE
+// HOOKE AND othe person
 
 class err_func_circle : public i_function {
 public:
